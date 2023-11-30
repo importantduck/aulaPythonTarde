@@ -1,4 +1,4 @@
-print("Hello Word !") # Mostra na tela o texto Hello Word!
+print("Hello World!") # Mostra na tela o texto Hello World!
 mensagem = "Olá, tudo bem?"
 print(mensagem) # Mostra a mensagem na tela
 print(mensagem[1]) # Mostra a segunda letra da mensagem
