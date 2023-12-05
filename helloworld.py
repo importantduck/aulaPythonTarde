@@ -1,3 +1,4 @@
+
 print("Hello World!") # Mostra na tela o texto Hello World!
 mensagem = "Olá, tudo bem?"
 print(mensagem) # Mostra a mensagem na tela
